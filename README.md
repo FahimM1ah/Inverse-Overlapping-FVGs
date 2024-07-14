@@ -1,2 +1,3 @@
 # Inverse-Overlapping-FVGs
-This cAlgo indicator was created for a client who desired to see fair value gaps in assets which are inversed and overlap one another.
+Fair Value Gaps (FVGs) in ICT's technical analysis theory refer to price discrepancies between candles where the wicks of surrounding candles fail to encompass the entire range of a central candle, suggesting potential inefficiencies in market valuation.
+This cAlgo indicator visualises fair value gaps in assets which are inversed and overlap one another.
