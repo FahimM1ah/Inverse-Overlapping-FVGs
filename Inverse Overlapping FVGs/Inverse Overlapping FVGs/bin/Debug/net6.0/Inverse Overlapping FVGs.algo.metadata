@@ -1,0 +1,95 @@
+[
+  {
+    "Flags": "Indicator",
+    "Guid": "00000000-0000-0000-0000-000000000000",
+    "Group": "Custom",
+    "FriendlyName": "InverseOverlappingFVGs",
+    "ShortName": null,
+    "TypeName": "cAlgo.InverseOverlappingFVGs",
+    "AssemblyName": "Inverse Overlapping FVGs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "TimeZone": "UTC",
+    "IsOverlay": true,
+    "IsPercentage": false,
+    "ScalePrecision": null,
+    "Levels": [],
+    "DefaultSymbolName": null,
+    "DefaultTimeFrame": null,
+    "Video": null,
+    "Lines": [],
+    "Clouds": [],
+    "Parameters": [
+      {
+        "MinValue": -2147483648,
+        "MaxValue": 2147483647,
+        "Step": 1,
+        "DefaultValue": 500,
+        "ParameterType": "Integer",
+        "PropertyName": "Period",
+        "FriendlyName": "Period",
+        "GroupName": null
+      },
+      {
+        "DefaultValue": "#01AF5040",
+        "ParameterType": "Color",
+        "PropertyName": "BullColor",
+        "FriendlyName": "Bull Color",
+        "GroupName": "Colors"
+      },
+      {
+        "DefaultValue": "#FF000043",
+        "ParameterType": "Color",
+        "PropertyName": "BearColor",
+        "FriendlyName": "Bear Color",
+        "GroupName": "Colors"
+      },
+      {
+        "DefaultValue": "#1B1818FF",
+        "ParameterType": "Color",
+        "PropertyName": "PanelColor",
+        "FriendlyName": "Panel Color",
+        "GroupName": "Colors"
+      },
+      {
+        "DefaultValue": "#737373FF",
+        "ParameterType": "Color",
+        "PropertyName": "ButtonColor",
+        "FriendlyName": "Button Color",
+        "GroupName": "Colors"
+      },
+      {
+        "EnumValues": {
+          "Center": 0,
+          "Left": 1,
+          "Right": 2,
+          "Stretch": 3
+        },
+        "DefaultValue": 2,
+        "ParameterType": "Enum",
+        "PropertyName": "HorizontalAlignmentToggle",
+        "FriendlyName": "Button X Position",
+        "GroupName": "Toggle Button"
+      },
+      {
+        "EnumValues": {
+          "Center": 0,
+          "Top": 1,
+          "Bottom": 2,
+          "Stretch": 3
+        },
+        "DefaultValue": 1,
+        "ParameterType": "Enum",
+        "PropertyName": "VerticalAlignmentToggle",
+        "FriendlyName": "Button Y Position",
+        "GroupName": "Toggle Button"
+      }
+    ],
+    "Capabilities": [
+      {
+        "CapabilityType": "FullTrust"
+      }
+    ],
+    "CustomAttributes": [],
+    "Sets": [],
+    "AddIndicatorsToChart": false
+  }
+]

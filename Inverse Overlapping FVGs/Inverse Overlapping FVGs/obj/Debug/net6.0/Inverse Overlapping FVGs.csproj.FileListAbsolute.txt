@@ -1,0 +1,12 @@
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\bin\Debug\net6.0\Inverse Overlapping FVGs.deps.json
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\bin\Debug\net6.0\Inverse Overlapping FVGs.dll
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\bin\Debug\net6.0\Inverse Overlapping FVGs.pdb
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.csproj.AssemblyReference.cache
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.AssemblyInfoInputs.cache
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.AssemblyInfo.cs
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.csproj.CoreCompileInputs.cache
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.dll
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\refint\Inverse Overlapping FVGs.dll
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\Inverse Overlapping FVGs.pdb
+C:\Users\nword\Documents\cAlgo\Sources\Indicators\Inverse Overlapping FVGs\Inverse Overlapping FVGs\obj\Debug\net6.0\ref\Inverse Overlapping FVGs.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2L+F3xWepfpKWoOoASLDN8P+TgLzXtlBcC6z57VN33lapuzcGrhylx0RUILuxgjoSG/bjQ1r5Yw9iSb7Q52fFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nword\\Documents\\cAlgo\\Sources\\Indicators\\Inverse Overlapping FVGs\\Inverse Overlapping FVGs\\Inverse Overlapping FVGs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nword\\.nuget\\packages\\ctrader.automate\\1.0.9\\ctrader.automate.1.0.9.nupkg.sha512",
+    "C:\\Users\\nword\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nword\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nword\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
